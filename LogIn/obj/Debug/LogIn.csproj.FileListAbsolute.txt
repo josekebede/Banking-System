@@ -1,0 +1,83 @@
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.csprojAssemblyReference.cache
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.Deposit.resources
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.Menu.resources
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.NewAccount.resources
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.Transaction.resources
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.UpdateAndDelete.resources
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.WithDrawal.resources
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Beki Becca\source\repos\LogIn\LogIn\obj\Debug\LogIn.CustomerDetials.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.csprojAssemblyReference.cache
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.CustomerDetials.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.Deposit.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.Menu.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.NewAccount.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.Transaction.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.UpdateAndDelete.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.WithDrawal.resources
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\Beki Becca\Desktop\LogIn\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\bin\Debug\LogIn.exe
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.csprojAssemblyReference.cache
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.CustomerDetials.resources
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.Deposit.resources
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.Menu.resources
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.NewAccount.resources
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.Transaction.resources
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.UpdateAndDelete.resources
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.exe
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Beki Becca\Desktop\LogIn - Copy\LogIn\obj\Debug\LogIn.WithDrawal.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.exe
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.pdb
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\bin\Debug\LogIn.exe
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\bin\Debug\LogIn.pdb
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.CustomerDetials.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.Deposit.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.Menu.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.NewAccount.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.Transaction.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.UpdateAndDelete.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.WithDrawal.resources
+C:\Users\MIKE\Desktop\ACCOUNTING\LogIn - Copy\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.exe
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\bin\Debug\LogIn.exe
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\bin\Debug\LogIn.pdb
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.CustomerDetials.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.Deposit.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.Menu.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.NewAccount.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.Transaction.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.UpdateAndDelete.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.WithDrawal.resources
+C:\Users\Sami\Desktop\Project\LogIn - Copy\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
